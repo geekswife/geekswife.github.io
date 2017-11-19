@@ -1,7 +1,7 @@
 theme: minima
 
 exclude: 
-  - README.md
+  - LICENSE.md
   
 author: Amanda Carson
 email: geek.wife@gmail.com
