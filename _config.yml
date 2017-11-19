@@ -1,12 +1,1 @@
 theme: minima
-
-exclude: 
-  - LICENSE.md
-  
-author: Amanda Carson
-email: geek.wife@gmail.com
-
-github_username: geekswife
-
-minima:
-  date_format: "%b %-d, %Y"
